@@ -45,8 +45,8 @@ This is a Backend Initial Setup using Monolithic MVC Architecture. It is designe
 ### 1️⃣ Clone the repository
 
 ```sh
-git clone https://github.com/shadat-hossan/Backend-Setup-Monolithic-MVC-Architecture.git
-cd Backend-Setup-Monolithic-MVC-Architecture
+git clone https://gitlab.com/shadat-hossain/initial-backend-setup-template-mvp-architecture
+cd initial-backend-setup-template-mvp-architecture
 ```
 
 ### 2️⃣ Install dependencies
