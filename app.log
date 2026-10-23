@@ -1,0 +1,17 @@
+[[32minfo[39m] Connected to MongoDB
+[[31merror[39m] Error: getaddrinfo ENOTFOUND Your-backend-ip-put-here
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:123:26)
+[[32minfo[39m] Connected to MongoDB
+[[31merror[39m] Error: getaddrinfo ENOTFOUND Your-backend-ip-put-here
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:123:26)
+[[32minfo[39m] Connected to MongoDB
+[[31merror[39m] Error: getaddrinfo ENOTFOUND Your-backend-ip-put-here
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:123:26)
+[[32minfo[39m] Connected to MongoDB
+[[32minfo[39m] Listening to ip http://172.23.16.1:3000
+[[32minfo[39m] Connected to email server
+[[32minfo[39m] Connected to MongoDB
+[[32minfo[39m] Listening to ip http://172.23.16.1:3000
+[[32minfo[39m] Connected to email server
+[[32minfo[39m] POST /api/v1/auth/register 201 - 827.178 ms
+[[32minfo[39m] POST /api/v1/auth/forgot-password 200 - 4024.697 ms
